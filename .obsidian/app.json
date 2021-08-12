@@ -1,0 +1,10 @@
+{
+  "fileSortOrder": "byCreatedTime",
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "attachmentFolderPath": "Zettelkasten/assets",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten/pages"
+}

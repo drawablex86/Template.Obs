@@ -1,0 +1,15 @@
+{
+  "defaultLanguage": "en_GB",
+  "shouldShowSynonymPopover": true,
+  "shouldShowCustomContextMenu": false,
+  "definitionApiName": "Free Dictionary API",
+  "synonymApiName": "Free Dictionary API",
+  "partOfSpeechApiName": "Systran API",
+  "advancedSynonymAnalysis": false,
+  "useCaching": false,
+  "folder": "",
+  "capitalizedFileName": true,
+  "prefix": "",
+  "suffix": " ({{lang}})",
+  "template": "---\n# {{notice}}\naliases: [\"{{word}}\"]\n---\n\n# {{word}}\n\n## {{pronunciationHeader}}\n\n{{phoneticList}}\n\n## {{meaningHeader}}\n\n{{meanings}}\n"
+}

@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "32063e7ffe4220f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1a5261d721d5139",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Start Here.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1dfc05beeca40a8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f350c697a31d484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb755c404947ed0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "21388ddf761e8805",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297
+  },
+  "right": {
+    "id": "563a8ad0acbfcc80",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6f54fb65776e3ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcafd34fe4e6501e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Start Here.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "726816c58e58065a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9d7e8758aa9a7f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4dc92187623b424a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Start Here.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2460743a64d0a02",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd60f3d2c983f2b7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e6d85b77ce7754a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "93deafa8ad85a56b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1c42f8147075461",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c2f7552c672700d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc32aca72cb944c6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310,
+    "collapsed": true
+  },
+  "active": "e1a5261d721d5139",
+  "lastOpenFiles": [
+    "Zettelkasten/pages/Untitled.md",
+    "Zettelmind/journals/2021_08_12.md",
+    "Zettelmind/pages/Implementing a digital zettelkasten with an online presence.md",
+    "Zettelmind/journals/2021_04_05.md",
+    "Zettelmind/journals/2021_08_05.md",
+    "Zettelmind/pages/Writing for the 21st Century.md",
+    "Zettelmind/pages/Assistive Technologies.md",
+    "Zettelmind/pages/How to take Smart Notes - Highlights.md",
+    "Zettelmind/pages/How to Take Smart Notes.md",
+    "Zettelmind/pages/Essentialism.md"
+  ]
+}
